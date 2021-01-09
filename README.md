@@ -1,3 +1,10 @@
+back-end : https://github.com/pedroaleph/dsdeliver-sds2.git
+Este repositório é uma solução temporária para os commits não serem perdidos
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
